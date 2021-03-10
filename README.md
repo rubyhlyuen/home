@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working on ...testing the site
+It is my portfolio
 
 <!--
 **rubyhlyuen/rubyhlyuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
